@@ -1,3 +1,8 @@
+Four()
+{
+  return(4);
+}
+
 default
 {
     state_entry()
