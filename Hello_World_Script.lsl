@@ -7,7 +7,7 @@ default
 {
     state_entry()
     {
-        Say(0, "I am cool!");
+        Say(0, "Hello World!");
     }
     touch_start(integer n)
     {
